@@ -91,6 +91,11 @@ hr {
     text-align: left;
 }
 
+.contact-me {
+    width : 50%;
+    margin : auto;
+}
+
 .contact-me-h3 {
     color: #11999E;
 }
