@@ -14,7 +14,7 @@ body {
     sans-serif;
     text-align: center;
     font-weight: bold;
-    line-height: 2rem;
+    line-height: 2;
 }
 
 /*making the margin of h1 to 0... so it can be full at top*/
@@ -27,7 +27,15 @@ h1 {
 }
 
 h2,h3,a {
-    color: #11999E;
+    color: #81b9bb;
+}
+
+hr {
+    border :  0;
+    border-top: 10px;
+    border-color: #d8f5f5;
+    border-style: dotted;
+    width: 10%;
 }
 
 .subtext {
@@ -43,6 +51,7 @@ h2,h3,a {
     background-color: #e4f9f5;
     position : relative;  /* so that it acts parent to absolute positioning*/
     padding : 100px;
+    width: 100%;
 }
 
 .top-cloud {
@@ -55,9 +64,61 @@ h2,h3,a {
     position : absolute;  /*rejecting the flow of html*/
 }
 
-.ontime {
-    height: 400px;
+.profile {
+    width: 50%;
+    margin: auto;
 }
 
+.skill-heading {
+    color: #11999E;
+}
+
+.ontime-image {
+   width: 22%;
+   float: right;
+   margin-left: 30px;
+}
+
+.skill-image {
+    margin-right: 30px;
+    width: 22%;
+    float: left;
+}
+
+.skill-row{
+    width : 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.contact-me-h3 {
+    color: #11999E;
+}
+
+.contact-me-btn {
+    text-decoration: none;
+    color: #EAF6F6;
+    background-color: #11999E;
+    padding: 5px;
+    display: inline-block;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.bottom-container {
+    background-color: #81b9bb;
+    
+}
+
+.footer-link {
+    color: #11999E;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.footer-p {
+    color: #EAF6F6;
+    margin-bottom: 0;
+}
 
 
