@@ -121,6 +121,10 @@ hr {
     padding: 5px;
 }
 
+.footer-link:hover {
+ color : #EAF6F6;   
+}
+
 .footer-p {
     color: #EAF6F6;
     margin-bottom: 0;
