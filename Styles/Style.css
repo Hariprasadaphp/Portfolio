@@ -123,8 +123,11 @@ hr {
 
 .footer-p {
     color: #EAF6F6;
+}
+
+.footer {
     margin: auto;
-    width: 50%;
+    width: 40%;
 }
 
 
