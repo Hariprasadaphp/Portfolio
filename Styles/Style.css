@@ -135,4 +135,90 @@ hr {
     width: 40%;
 }
 
+@media(max-width:800px) {
+    .body {
+        text-align: center;
+    }
+
+    .top-container {
+        width: 100%;
+    }
+    .header-text {
+        font-size: 2rem;
+    }
+    .subtext {
+        font-size: 1rem;
+    }
+    .mountain {
+        width: 100%;
+        height: auto;
+    }
+    
+    .bottom-cloud {
+        left: 10%;
+        width: 25%;
+        top: 250px;
+    }
+
+    .top-cloud {
+        width: 25%;
+        top: 100px;
+        right: 80px;
+    }
+
+    .skill-image {
+        float: none;
+        height: 250px;
+        width: 250px;
+        
+    }
+
+    .ontime-image {
+        float: none;
+        width: 250px;
+        height: 250px;
+    }
+
+    .skill-heading {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .contact-me {
+        width: 50%;
+    }
+
+    .bottom-container {
+        width: 100%;
+    }
+
+    .contact-me>h2 {
+        font-size: 2rem;
+    }
+
+    .contact-me-h3 {
+        font-size: 1.2rem;
+    }
+
+    .contact-me>p {
+        font-size: 1rem;
+    }
+
+    .contact-me-btn {
+        width: 150px;
+    }
+
+    .footer-link{
+        font-size: 1rem;
+    }
+
+    .footer {
+        font-size: 1rem;
+    }
+}
+
+
 
