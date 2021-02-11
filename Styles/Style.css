@@ -138,6 +138,8 @@ hr {
 @media(max-width:800px) {
     .body {
         text-align: center;
+        margin: 0;
+        box-sizing: border-box;
     }
 
     .top-container {
