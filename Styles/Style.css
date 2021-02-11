@@ -140,6 +140,7 @@ hr {
         text-align: center;
         margin: 0;
         box-sizing: border-box;
+        width: 75%;
     }
 
     .top-container {
