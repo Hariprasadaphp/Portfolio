@@ -159,6 +159,7 @@ hr {
     .mountain {
         width: 120px;
         height: 100px;
+        margin: auto;
     }
     
     .bottom-cloud {
