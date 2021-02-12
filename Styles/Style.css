@@ -153,8 +153,8 @@ hr {
         font-size: 1rem;
     }
     .mountain {
-        width: 100%;
-        height: auto;
+        width: 105%;
+        height: 200px;
     }
     
     .bottom-cloud {
@@ -173,13 +173,14 @@ hr {
         float: none;
         height: 200px;
         width: 200px;
-        
+        margin: auto;
     }
 
     .ontime-image {
         float: none;
         width: 200px;
         height: 200px;
+        margin: auto;
     }
 
     .skill-heading {
