@@ -73,6 +73,10 @@ hr {
     color: #11999E;
 }
 
+hr {
+    width : 20%;
+}
+
 .ontime-image {
    width: 22%;
    float: right;
