@@ -73,10 +73,6 @@ hr {
     color: #11999E;
 }
 
-hr {
-    width : 20%;
-}
-
 .ontime-image {
    width: 22%;
    float: right;
@@ -172,6 +168,10 @@ hr {
         width: 25%;
         top: 100px;
         right: 80px;
+    }
+    
+    hr {
+         width : 20%;
     }
 
     .skill-image {
